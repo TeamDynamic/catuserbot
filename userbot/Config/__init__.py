@@ -1,1 +1,1 @@
-from .catub_config import Config
+from userbot.Config.catub_config import Config
